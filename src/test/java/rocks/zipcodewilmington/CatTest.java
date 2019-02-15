@@ -83,7 +83,7 @@ public class CatTest {
     @Test
     public void testGetId() {
         //Given
-        Integer expectedInt = 32;
+        Integer expectedInt = 12;
         //When
         cat.getId();
         //Then

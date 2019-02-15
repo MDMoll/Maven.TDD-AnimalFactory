@@ -56,7 +56,7 @@ public class DogTest {
             dog.eat(food);
             //Then
             Assert.assertEquals(numberOfMeals, dog.getNumberOfMealsEaten());}
-        
+
     // TODO - Create tests for `Integer getId()`
         @Test
         public void getIdTest(){
